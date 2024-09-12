@@ -3,7 +3,7 @@ title: "Node.js + AWS Lambda (Serverless Framework) でTwitterに定期ツイー
 emoji: "🐦"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["serverlessframewor", "twitter"]
-published: false
+published: true
 ---
 
 # 何がしたかったか
